@@ -1,1 +1,1 @@
-# This is Achintya's website.
+# achintys.github.io
